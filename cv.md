@@ -5,7 +5,7 @@
 * Facebook: [https://www.facebook.com/](https://www.facebook.com/)
 * Discord(RS-School server): Dmitry Zaparenko (@M-Dimonka)
 * Github:
-	* First account - [https://github.com/Di-mentos](https://github.com/Di-mentos)
+	* First account - [https://github.com/Di-mentos](https://github.com/Di-mentos)  
 	* Second account(RS-School repos) - [https://github.com/M-Dimonka](https://github.com/M-Dimonka)
 ---
 
