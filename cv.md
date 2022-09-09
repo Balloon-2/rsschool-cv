@@ -6,12 +6,12 @@
 * Discord(RS-School server): Dmitry Zaparenko (@M-Dimonka)
 * Github:
 	* First account - [https://github.com/Di-mentos](https://github.com/Di-mentos)  
-	* Second account(RS-School repos) - [https://github.com/M-Dimonka](https://github.com/M-Dimonka)
+	* Second account(RS-School repos) - [https://github.com/M-Dimonka](https://github.com/M-Dimonka)  
 ---
 
 <ins>_Goals:_</ins>  
  1. To develop as a Frontend-developer, finding ways to make the sites more attractive and interactive for user  
- 2. To learn how to make complex web-applications using different technologies
+ 2. To learn how to make complex web-applications using different technologies  
  ---
 
 <ins>_Main skills:_</ins>
@@ -26,7 +26,7 @@
  * Basics of React(SPA-conception, JSX, components, state management, FLUX, UI/BLL program architecture levels)
  * Photoshop, Figma
  * Git, Github
- * Sublime Text 3, VS Code, Brackets
+ * Sublime Text 3, VS Code, Brackets  
  ---
  
  <ins>_Code example:_</ins>  
@@ -48,13 +48,13 @@ function solution(number){
   }
   return sum;
 }
-```
+```  
 ---
 
 <ins>_Courses:_</ins>
 * **English language courses** - Center of foreign languages Lingvo Academy
 * **"Head First JavaScript Programming(A Brain-Friendly Guide)"** - _Eric Freeman & Elizabeth Robson_
-* **React - way of Samurai** - _[IT-Kamasutra Youtube channel](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&index=1)_
+* **React - way of Samurai** - _[IT-Kamasutra Youtube channel](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&index=1)_  
 ---
 
 <ins>_Languages:_</ins>  
