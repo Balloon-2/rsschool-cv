@@ -30,8 +30,7 @@
  ---
  
  <ins>_Code example:_</ins>  
-**A task from Codewars:** If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-
+**A task from Codewars:** If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them).  
 **Solution:**
 ```
@@ -53,8 +52,7 @@ function solution(number){
 ---
 
 <ins>_Courses:_</ins>
-* **English language courses**  
-Center of foreign languages Lingvo Academy
+* **English language courses** - Center of foreign languages Lingvo Academy
 * **"Head First JavaScript Programming(A Brain-Friendly Guide)"** - _Eric Freeman & Elizabeth Robson_
 * **React - way of Samurai** - _[IT-Kamasutra Youtube channel](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&index=1)_
 ---
