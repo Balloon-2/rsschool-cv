@@ -14,7 +14,7 @@
  1. To develop as a Frontend-developer, finding ways to make the sites more attractive and interactive for user  
  2. To learn how to make complex web-applications using different technologies
  
----
+*********
 
 <ins>_Main skills:_</ins>
  * HTML5/CSS3 (transformation and animation of elements, using filters, gradients)
@@ -30,9 +30,10 @@
  * Git, Github
  * Sublime Text 3, VS Code, Brackets
  
----
+*********
  
- <ins>_Code example:_</ins>  
+ <ins>_Code example:_</ins>
+ 
 **A task from Codewars:** If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  
 Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them).  
 **Solution:**
